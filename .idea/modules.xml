@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RealmExample.iml" filepath="$PROJECT_DIR$/RealmExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RealmExample.iml" filepath="$PROJECT_DIR$/.idea/RealmExample.iml" />
+      <module fileurl="file://D:\workSpace_Android\Otros_ProyectosEjemplos\RealmExample\RealmExample.iml" filepath="D:\workSpace_Android\Otros_ProyectosEjemplos\RealmExample\RealmExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

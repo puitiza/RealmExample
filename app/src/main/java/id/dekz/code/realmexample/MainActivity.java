@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     @BindView(R.id.toolbarMain)Toolbar toolbar;
     @BindView(R.id.search_view)MaterialSearchView materialSearchView;
 
+    
     private List<User> userList;
     private Realm realm;
 
